@@ -1,15 +1,11 @@
 # Impressum
 
-**Angaben gemäß § 5 DDG:**
-Björn Gorsler
-Güntersberger Straße 59a
-06493 Harzgerode
+[cite_start]Björn Gorsler [cite: 12]  
+[cite_start]Güntersberger Straße 59a [cite: 13]  
+[cite_start]06493 Harzgerode [cite: 14]
 
-**Kontakt:**
-Telefon: 01716448875
-E-Mail: bjoerngorsler@googlemail.com
+## Kontakt
+[cite_start]Telefon: 033039488799639 [cite: 16]  
+[cite_start]E-Mail: bjoerngorsler@googlemail.com [cite: 17]
 
-**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**
-Björn Gorsler
-Güntersberger Straße 59a
-06493 Harzgerode
+[cite_start]Quelle: [https://www.e-recht24.de](https://www.e-recht24.de) [cite: 18, 19]
