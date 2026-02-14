@@ -14,10 +14,10 @@ Die Datenerfassung in dieser App erfolgt durch den Nutzer selbst. Die Daten werd
 
 Verantwortlich für die Datenverarbeitung in dieser App ist:
 
-[Dein Vorname] [Dein Nachname]  
-[Straße Hausnummer]  
-[PLZ Ort]  
-E-Mail: [Deine E-Mail-Adresse]
+Björn Gorsler
+Güntersberger Straße 59a
+06493 Harzgerode  
+E-Mail: bjoerngorsler@googlemail.com
 
 ---
 
@@ -41,7 +41,7 @@ Die Daten dienen ausschließlich der sicheren Überwachung von Atemschutzgeräte
 
 Die App fordert folgende Berechtigungen an, die für den Betrieb zwingend erforderlich sind:
 * **Standort (GPS):** Zur automatischen Ermittlung des Einsatzortes und zur Zentrierung der Karte auf die eigene Organisation.
-* **Dateizugriff / Speicher:** Zum Exportieren von Einsatzprotokollen (PDF) und zum Erstellen lokaler Backups.
+* **Dateizugriff / Speicher:** Zum Exportieren von Einsatzprotokollen und zum Erstellen lokaler Backups.
 
 ---
 
