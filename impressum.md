@@ -1,11 +1,20 @@
-# Impressum
+# IMPRESSUM
 
-Björn Gorsler<br>
-Güntersberger Straße 59a<br>
-06493 Harzgerode
+**Anbieter:** Björn Gorsler (Entwickler-Label: **Blaulicht Schmiede**)  
+**Sitz:** Harzgerode, Deutschland
 
-## Kontakt
-Telefon: 033039488799639<br>
-E-Mail: bjoerngorsler@googlemail.com
+Diese Angaben gelten für die Dienste GearSafe, OpsWater und Druckpunkt.
 
-Quelle: [https://www.e-recht24.de](https://www.e-recht24.de)
+---
+
+## KONTAKT
+* **Anschrift:** Güntersberger Straße 59a, 06493 Harzgerode
+* **Telefon:** 033039488799639
+* **E-Mail:** bjoerngorsler@googlemail.com
+
+---
+
+## RECHTLICHE HINWEISE
+Die Inhalte dieser Dienste wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte (insbesondere nutzergenerierte Daten) kann jedoch keine Gewähr übernommen werden.
+
+**Quelle:** Erstellt mit Unterstützung von **e-recht24.de**
